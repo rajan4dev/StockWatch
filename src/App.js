@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import logo from './logo.svg';
-import 'typeface-roboto';
 import './App.css';
 import AddStockAlert from "./StockAlerts/AddStockAlert";
 
